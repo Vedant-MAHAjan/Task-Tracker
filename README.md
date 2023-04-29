@@ -35,12 +35,6 @@ git clone https://github.com/Vedant-MAHAjan/Task-Tracker.git
 npm install
 ```
 
-2. Install NPM packages
-
-```sh
-npm install
-```
-
 3. Generate build copy
 
 ```sh
