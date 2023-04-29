@@ -6,6 +6,8 @@ It allows users to add tasks to a list ✍️, mark tasks as complete, and delet
 
 The app also includes a "Clear List" button that allows users to delete all tasks at once.
 
+Reminders can be set for tasks by double clickng on the task tile
+
 ### Try for yourself here https://vedant-mahajan.github.io/Task-Tracker/
 
 ## 🚀 Features
